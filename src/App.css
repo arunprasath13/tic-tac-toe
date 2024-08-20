@@ -1,0 +1,22 @@
+.board{
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row{
+  gap: 20px;
+}
+
+
+.main{
+  height: 100vh;
+}
+
+
+h1{
+  display: grid;
+  place-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
